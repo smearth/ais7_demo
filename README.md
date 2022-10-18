@@ -1,5 +1,6 @@
 # ais7_demo
 멋쟁이사자처럼 AIS7 실습
+<img src="likelion.png">
 
 # 제목 1
 * 내용 1

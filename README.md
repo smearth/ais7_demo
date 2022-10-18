@@ -1,7 +1,7 @@
 # ais7_demo
 멋쟁이사자처럼 AIS7 실습
 
-# 코딩 여행을 떠나자!
+# 코딩 여행을 떠나보자!
 <img src="https://images.unsplash.com/photo-1527786356703-4b100091cd2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80">
 
 # 제목 1
